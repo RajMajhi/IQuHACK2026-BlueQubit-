@@ -5,7 +5,7 @@ Here, I have included the visualizations, the code, and the outputs we obtained.
 
 This is **my personal implementation**, not my team's, since the team repository is private and cannot be made public.
 
-## This repository contains bluequbit 10 problem sets.
+# This repository contains bluequbit 10 problem sets.
 
 Thank you and happy coding!
 
